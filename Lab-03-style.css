@@ -1,0 +1,14 @@
+.image-preview img {
+border-top: 30px solid lightgrey;
+border-right: 30px solid darkmagenta;
+border-left:30px solid dimgray;
+border-bottom: 30px solid goldenrod;
+
+}
+
+p > span { color: red; }
+#header span { color: rgb(125, 164, 178); }
+span { color: rgb(77, 129, 77); }
+#header *:last-child { color: rgb(173, 19, 78); }
+#header span:first-child:hover { color: rgb(107, 95, 12); }
+
